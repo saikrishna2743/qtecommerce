@@ -10,3 +10,5 @@ def IsADirectoryError():
 
 def isMydata():
     pass
+def isgetout():
+    pass
