@@ -6,6 +6,7 @@ def isDataNotvalid():
     pass
 
 def IsADirectoryError():
-    pss
+    pass
+
 def isMydata():
     pass
