@@ -1,0 +1,2 @@
+def isDataValid():
+    pass
