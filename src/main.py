@@ -4,3 +4,6 @@ def isLogin():
 
 def isLogout():
     pass
+
+def isWelcome():
+    pass
